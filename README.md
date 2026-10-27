@@ -80,7 +80,4 @@ The output directory contains:
 
 If you use this script, please cite the relevant methodological references for Heaps' law and the associated pan-genome analysis approach:
 
-- Sharma (2024).
-- Rajput et al. (2023).
-
 Please add the complete bibliographic details and the original software or repository attribution where applicable.
