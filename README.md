@@ -78,6 +78,6 @@ The output directory contains:
 
 ## Citation
 
-If you use this script, please cite the relevant methodological references for Heaps' law and the associated pan-genome analysis approach:
+If you are using the `pan_genome_analysis_corrected.py` script for your research, please consider citing it as follows:
 
-Please add the complete bibliographic details and the original software or repository attribution where applicable.
+Sharma, R. (2026). *Pan-genome Openness Analysis Using Heaps' Law* [Python script]. GitHub. https://github.com/BioinfoRhythm/Pan-genome-Openness-Analysis-Using-Heaps-Law
